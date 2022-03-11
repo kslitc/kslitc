@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**kslitc/kslitc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :face_in_clouds: About me 🚀
 
-Here are some ideas to get you started:
+⚡ I am Keren Sánchez, a **QA Automation Engineer** (specialized in **Back End** testing) with background as a **Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I enjoy learning new things about technology. That's why, despite having a strong background in **Java**, lately I'm focusing on **Python**. I love **REST API** testing, but I have also worked with **SOAP**, **Message Queuing** and **Selenium**. Other than that, I try to apply **BDD** whenever possible to provide comprehensible feedback about test results easily.
+
+- 📫 How to reach me:
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/keren-sanchez/)
+
+[![Keren's GitHub stats](https://github-readme-stats.vercel.app/api?username=kslitc&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kslitc&repo=automation&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kslitc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
