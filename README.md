@@ -11,6 +11,4 @@
 
 [![Keren's GitHub stats](https://github-readme-stats.vercel.app/api?username=kslitc&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kslitc&repo=automation&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kslitc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
